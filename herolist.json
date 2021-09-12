@@ -2,31 +2,31 @@
   {
     "heroname":"Krixi",
     "heroid":106,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_xiaoqiao.png"
   },
   {
     "heroname":"Zephys",
     "heroid":107,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_zhaoyun.png"
   },
   {
     "heroname":"Gildur",
     "heroid":108,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/modi_modi.png"
   },
   {
     "heroname":"Violet",
     "heroid":111,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_sunshangxiang.png"
   },
   {
     "heroname":"Yorn",
     "heroid":112,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/gonshuban_gonshuban.png"
   },
   {
     "heroname":"Butterfly",
     "heroid":116,
-    "iconlink":""
+    "iconlink":"https://github.com/dhagm/iconAOV/raw/main/jingke_jingke.png"
   }
 ]
