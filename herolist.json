@@ -1,26 +1,32 @@
 [
   {
-   "heroname":"Krixi",
-   "heroid":106
+    "heroname":"Krixi",
+    "heroid":106,
+    "iconlink":""
   },
   {
     "heroname":"Zephys",
-    "heroid":107
+    "heroid":107,
+    "iconlink":""
   },
   {
     "heroname":"Gildur",
-    "heroid":108
+    "heroid":108,
+    "iconlink":""
   },
   {
     "heroname":"Violet",
-    "heroid":111
+    "heroid":111,
+    "iconlink":""
   },
   {
     "heroname":"Yorn",
-    "heroid":112
+    "heroid":112,
+    "iconlink":""
   },
   {
     "heroname":"Butterfly",
-    "heroid":116
+    "heroid":116,
+    "iconlink":""
   }
 ]
