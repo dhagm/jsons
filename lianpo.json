@@ -1,0 +1,22 @@
+[
+{
+  "skinname":"Mặc định",
+  "skinid":105,
+  "imglink":"https://github.com/dhagm/iconAOV/raw/main/lianpo_skin_00.png"
+},
+{
+  "skinname":"Đặc Cảnh NYPD",
+  "skinid":1052,
+  "imglink":"https://github.com/dhagm/iconAOV/raw/main/lianpo_skin_01.png"
+},
+{
+  "skinname":"Trung Phong Cắm",
+  "skinid":1053,
+  "imglink":"https://github.com/dhagm/iconAOV/raw/main/lianpo_skin_02.png"
+},
+{
+  "skinname":"Thần thoại Hy lạp",
+  "skinid":1054,
+  "imglink":"https://github.com/dhagm/iconAOV/raw/main/lianpo_skin_03.png"
+}
+]
