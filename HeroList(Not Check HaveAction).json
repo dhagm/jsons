@@ -27,22 +27,17 @@
         {
             "skinname":"Cấm vệ nguyệt tộc",
             "skinid":1305,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_04.png"
         },
         {
             "skinname":"Kiemono",
             "skinid":1306,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_05.png"
         },
         {
             "skinname":"Bạch Kiemono",
             "skinid":1307,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_06.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_06.png"
         },
         {
             "skinname":"Phó kiếm đạo",
@@ -52,28 +47,22 @@
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1309,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_08.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_08.png"
         },
         {
             "skinname":"Mỵ hồ",
             "skinid":13010,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_09.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_09.png"
         },
         {
             "skinname":"Đặc công tử điệp",
             "skinid":13011,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_10.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_10.png"
         },
         {
             "skinname":"Bích Hải thánh nữ",
             "skinid":13012,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_11.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongbenwuzang_skin_11.png"
         }
     ]
 },
@@ -100,8 +89,7 @@
         {
             "skinname":"Quỷ soái nguyệt tộc",
             "skinid":1564,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangliang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangliang_skin_04.png"
         },
         {
             "skinname":"Xứ sở thần tiên",
@@ -111,8 +99,7 @@
         {
             "skinname":"Siêu sao bóng rổ",
             "skinid":1565,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangliang_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangliang_skin_06.png"
         }
     ]
 },
@@ -134,8 +121,7 @@
         {
             "skinname":"Bé gấu tuyết",
             "skinid":1184,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_02.png"
         },
         {
             "skinname":"Xứ sở thần tiên",
@@ -150,14 +136,12 @@
         {
             "skinname":"Tiểu quỷ bí ngô",
             "skinid":1187,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_05.png"
         },
         {
             "skinname":"Bé du xuân",
             "skinid":1188,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunbin_skin_06.png"
         }
     ]
 },
@@ -174,21 +158,17 @@
         {
             "skinname":"Hắc Kiếm Sĩ Kirito",
             "skinid":5372,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_01.png"
         },
         {
             "skinname":"Kirito",
             "skinid":5373,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_02.png"
         },
         {
             "skinname":"Thần mặt trời",
             "skinid":5375,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/trip_skin_03.png"
         }
     ]
 },
@@ -210,26 +190,22 @@
         {
             "skinname":"Thư ký",
             "skinid":1934,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_02.png"
         },
         {
             "skinname":"Đặc công Nhện đỏ",
             "skinid":1933,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_03.png"
         },
         {
             "skinname":"Thỏ may mắn",
             "skinid":1935,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_04.png"
         },
         {
             "skinname":"Võ thần thiên hà",
             "skinid":1936,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lafeier_skin_05.png"
         }
     ]
 },
@@ -256,14 +232,12 @@
         {
             "skinname":"Thần tượng âm nhạc",
             "skinid":5194,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/annette_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/annette_skin_03.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":5195,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/annette_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/annette_skin_04.png"
         },
         {
             "skinname":"Vân Mộng tiên tử",
@@ -295,8 +269,7 @@
         {
             "skinname":"Hoàng kim công chúa",
             "skinid":5363,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/ninja_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/ninja_skin_02.png"
         }
     ]
 },
@@ -323,8 +296,7 @@
         {
             "skinname":"Tà linh hiệp sỹ",
             "skinid":1264,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiahoudun_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiahoudun_skin_03.png"
         }
     ]
 },
@@ -351,8 +323,7 @@
         {
             "skinname":"Si tình kiếm",
             "skinid":1664,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_03.png"
         },
         {
             "skinname":"Siêu sao Cricket",
@@ -362,21 +333,17 @@
         {
             "skinname":"Đặc cảnh băng lôi",
             "skinid":1666,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_05.png"
         },
         {
             "skinname":"Chiến binh trăng khuyết",
             "skinid":1667,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_06.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1668,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yasewang_skin_07.png"
         }
     ]
 },
@@ -398,34 +365,27 @@
         {
             "skinname":"Vũ khúc long hổ",
             "skinid":1873,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_02.png"
         },
         {
             "skinname":"Linh tượng vu nữ",
             "skinid":1874,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_03.png"
         },
         {
             "skinname":"Vũ khúc thần sứ",
             "skinid":1875,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_04.png"
         },
         {
             "skinname":"Thỏ may mắn",
             "skinid":1876,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_05.png"
         },
         {
             "skinname":"Nữ hoàng gấu xám",
             "skinid":1877,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/donghuangtaiyi_skin_06.png"
         }
     ]
 },
@@ -447,8 +407,7 @@
         {
             "skinname":"Siêu sao bóng chày",
             "skinid":5023,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/astrid_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/astrid_skin_02.png"
         },
         {
             "skinname":"Tổ trưởng học đường",
@@ -502,14 +461,12 @@
         {
             "skinname":"Ghẹo hay kẹo",
             "skinid":1274,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhenji_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhenji_skin_02.png"
         },
         {
             "skinname":"Qủy diện lãng khách",
             "skinid":1275,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhenji_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhenji_skin_03.png"
         }
     ]
 },
@@ -531,8 +488,7 @@
         {
             "skinname":"Liệt hỏa dung nham",
             "skinid":5053,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baldum_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baldum_skin_02.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -559,8 +515,7 @@
         {
             "skinname":"Dơi địa ngục",
             "skinid":1533,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lanlingwang_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lanlingwang_skin_02.png"
         }
     ]
 },
@@ -582,8 +537,29 @@
         {
             "skinname":"Toshiro Hitsugaya",
             "skinid":5403,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bright_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bright_skin_02.png"
+        }
+    ]
+},
+{
+    "heroname":"Butterfly",
+    "herocodename":"bright",
+    "imglink":"https://github.com/dhagm/iconAOV/raw/main/jingke_jingke.png"
+    "skinlist":[
+        {
+            "skinname":"Mặc Định",
+            "skinid":5401,
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bright_skin_00.png"
+        },
+        {
+            "skinname":"Soái ca thánh điện",
+            "skinid":5402,
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bright_skin_01.png"
+        },
+        {
+            "skinname":"Toshiro Hitsugaya",
+            "skinid":5403,
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bright_skin_02.png"
         }
     ]
 },
@@ -605,28 +581,22 @@
         {
             "skinname":"Thần tượng âm nhạc",
             "skinid":5243,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_02.png"
         },
         {
             "skinname":"Kimono",
             "skinid":5245,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_03.png"
         },
         {
             "skinname":"Toán Hóa Sinh",
             "skinid":5244,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_04.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_04.png"
         },
         {
             "skinname":"Siêu cấp tin tặc",
             "skinid":5246,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/capheny_skin_05.png"
         }
     ]
 },
@@ -692,8 +662,7 @@
         {
             "skinname":"Đại sư sushi",
             "skinid":1714,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangfei_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhangfei_skin_03.png"
         }
     ]
 },
@@ -715,14 +684,12 @@
         {
             "skinname":"Đô đốc tinh Hệ",
             "skinid":5233,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darcy_skin_2.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darcy_skin_2.png"
         },
         {
             "skinname":"Liệt hỏa dung nham",
             "skinid":5234,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darcy_skin_3.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darcy_skin_3.png"
         }
     ]
 },
@@ -744,8 +711,7 @@
         {
             "skinname":"Quận chúa tuyết",
             "skinid":5343,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/grantwish_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/grantwish_skin_02.png"
         }
     ]
 },
@@ -767,14 +733,12 @@
         {
             "skinname":"Chiến binh trăng khuyết",
             "skinid":5303,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dirak_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dirak_skin_02.png"
         },
         {
             "skinname":"Qúy tộc Narman",
             "skinid":5304,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dirak_skin_03.png",
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dirak_skin_03.png"
         }
     ]
 },
@@ -796,8 +760,7 @@
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1523,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_02.png"
         },
         {
             "skinname":"Hoa hậu",
@@ -807,21 +770,17 @@
         {
             "skinname":"Phù thủy bí ngô",
             "skinid":1527,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_04.png"
         },
         {
             "skinname":"Hoa cung chủ",
             "skinid":1529,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_05.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_05.png"
         },
         {
             "skinname":"Mèo công nghệ",
             "skinid":15210,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wangzhaojun_skin_06.png"
         }
     ]
 },
@@ -853,8 +812,7 @@
         {
             "skinname":"Siêu thám tử",
             "skinid":1995,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/li_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/li_skin_04.png"
         }
     ]
 },
@@ -881,21 +839,17 @@
         {
             "skinname":"Guitar tình ái",
             "skinid":1964,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_03.png"
         },
         {
             "skinname":"Hắc ám kỵ sĩ",
             "skinid":1965,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_04.png"
         },
         {
             "skinname":"Sứ giả tận thế",
             "skinid":1966,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/elsu_skin_05.png"
         },
         {
             "skinname":"Tuyết ưng",
@@ -922,8 +876,7 @@
         {
             "skinname":"Công tử hoa nguyệt",
             "skinid":1953,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bailixuance_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bailixuance_skin_02.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -950,8 +903,7 @@
         {
             "skinname":"Tử sĩ",
             "skinid":5223,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/errol_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/errol_skin_03.png"
         }
     ]
 },
@@ -978,14 +930,12 @@
         {
             "skinname":"Tuần lọc láu lỉnh",
             "skinid":1735,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liyuanfang_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liyuanfang_skin_03.png"
         },
         {
             "skinname":"Phi hành gia",
             "skinid":1736,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liyuanfang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liyuanfang_skin_04.png"
         },
         {
             "skinname":"Tay đua F1",
@@ -1012,8 +962,7 @@
         {
             "skinname":"Tia chớp tương lai",
             "skinid":5072,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/flash_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/flash_skin_01.png"
         }
     ]
 },
@@ -1035,8 +984,7 @@
         {
             "skinname":"Giám sát tinh Hệ",
             "skinid":5213,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_02.png"
         },
         {
             "skinname":"Kiếm sĩ Olympic",
@@ -1051,14 +999,12 @@
         {
             "skinname":"Seven",
             "skinid":5216,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_05.png"
         },
         {
             "skinname":"Tà long kiếm sĩ",
             "skinid":5217,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/florentino_skin_06.png"
         }
     ]
 },
@@ -1075,9 +1021,7 @@
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1082,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/modi_skin_01.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/modi_skin_01.png"
         },
         {
             "skinname":"Phượt thủ",
@@ -1124,14 +1068,12 @@
         {
             "skinname":"Chàng gấu tuyết",
             "skinid":1754,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_03.png"
         },
         {
             "skinname":"Mèo thần tài",
             "skinid":1756,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_04.png"
         },
         {
             "skinname":"Sumo",
@@ -1141,8 +1083,7 @@
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1758,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongkui_skin_06.png"
         }
     ]
 },
@@ -1164,33 +1105,27 @@
         {
             "skinname":"Chiến binh trăng khuyết",
             "skinid":1323,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_02.png"
         },
         {
             "skinname":"Ngân lang",
             "skinid":1324,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_03.png"
         },
         {
             "skinname":"Quỷ diện",
             "skinid":1326,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_04.png"
         },
         {
             "skinname":"Tử thần vũ trụ",
             "skinid":1325,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_05.png"
         },
         {
             "skinname":"Kim ưng sát thủ",
             "skinid":1327,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/makeboluo_skin_06.png"
         }
     ]
 },
@@ -1234,8 +1169,7 @@
         {
             "skinname":"Bắc băng vương",
             "skinid":1244,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhouyu_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhouyu_skin_03.png"
         },
         {
             "skinname":"Thầy tế mặt trời",
@@ -1267,14 +1201,12 @@
         {
             "skinname":"Hồng hoa hậu",
             "skinid":1364,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wuzetian_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wuzetian_skin_03.png"
         },
         {
             "skinname":"Thiên nữ áo dài",
             "skinid":1365,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wuzetian_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wuzetian_skin_04.png"
         },
         {
             "skinname":"Nữ hoàng khí giới",
@@ -1301,8 +1233,7 @@
         {
             "skinname":"Tiểu thư kẹo ngọt",
             "skinid":5263,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/summoner_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/summoner_skin_02.png"
         },
         {
             "skinname":"Tiểu thư gấu trúc",
@@ -1329,14 +1260,12 @@
         {
             "skinname":"Dạ xoa vương",
             "skinid":1153,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gaojianli_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gaojianli_skin_02.png"
         },
         {
             "skinname":"Hỏa nhãn ma vương",
             "skinid":1154,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gaojianli_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gaojianli_skin_03.png"
         },
         {
             "skinname":"Pháp sư trọc",
@@ -1363,8 +1292,7 @@
         {
             "skinname":"Vua hề",
             "skinid":1743,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yuji_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yuji_skin_02.png"
         }
     ]
 },
@@ -1391,8 +1319,7 @@
         {
             "skinname":"Kim cô giáo chủ",
             "skinid":1105,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yingzheng_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/yingzheng_skin_03.png"
         },
         {
             "skinname":"Siêu đầu bếp",
@@ -1429,14 +1356,12 @@
         {
             "skinname":"Sát thủ bí ngô",
             "skinid":5314,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/keera_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/keera_skin_03.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":5316,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/keera_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/keera_skin_04.png"
         },
         {
             "skinname":"Thủy thủ",
@@ -1485,14 +1410,12 @@
         {
             "skinname":"Yêu trùng cổ mộ",
             "skinid":1623,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nakoruru_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nakoruru_skin_02.png"
         },
         {
             "skinname":"ST.L-162",
             "skinid":1624,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nakoruru_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nakoruru_skin_03.png"
         }
     ]
 },
@@ -1514,21 +1437,17 @@
         {
             "skinname":"Xử sở thần tiên",
             "skinid":1063,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_02.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1064,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_03.png"
         },
         {
             "skinname":"Cô tiên thỏ",
             "skinid":1065,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_04.png"
         },
         {
             "skinname":"Phó văn nghệ",
@@ -1538,15 +1457,12 @@
         {
             "skinname":"Tiểu yêu nữ",
             "skinid":1067,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_06.png"
         },
         {
             "skinname":"Nữ hoàng thiên nga",
             "skinid":1068,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_07.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiaoqiao_skin_07.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -1600,52 +1516,42 @@
         {
             "skinname":"Hỏa phượng hoàng",
             "skinid":1413,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_02.png"
         },
         {
             "skinname":"Phù thủy bí ngô",
             "skinid":1414,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_03.png"
         },
         {
             "skinname":"Thánh quang sứ",
             "skinid":1415,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_04.png"
         },
         {
             "skinname":"Lạc thần",
             "skinid":1417,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_05.png"
         },
         {
             "skinname":"Hoa khôi dạ hội",
             "skinid":1416,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_06.png"
         },
         {
             "skinname":"Tinh vân sứ",
             "skinid":1418,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_07.png"
         },
         {
             "skinname":"Đọa lạc thiên",
             "skinid":1419,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_08.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_08.png"
         },
         {
             "skinname":"Thiên sứ công nghệ",
             "skinid":14110,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_09.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/diaochan_skin_09.png"
         }
     ]
 },
@@ -1667,27 +1573,22 @@
         {
             "skinname":"Tay súng diệt thần",
             "skinid":5333,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_02.png"
         },
         {
             "skinname":"Tay súng vô địch",
             "skinid":5334,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_03.png",
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_03.png"
         },
         {
             "skinname":"Xạ thần Tinh Vệ",
             "skinid":5335,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_04.png"
         },
         {
             "skinname":"Kim Quy thần vương",
             "skinid":5336,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/houyi2_skin_05.png"
         }
     ]
 },
@@ -1709,29 +1610,22 @@
         {
             "skinname":"Thần tượng âm nhạc",
             "skinid":5103,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_02.png"
         },
         {
             "skinname":"Nguyệt mị ly",
             "skinid":5104,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_03.png"
         },
         {
             "skinname":"Tiểu thơ anh đào",
             "skinid":5105,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_04.png"
         },
         {
             "skinname":"Tân nguyệt mị ly",
             "skinid":5106,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liliana_skin_05.png"
         },
         {
             "skinname":"Nữ thần F1",
@@ -1763,8 +1657,7 @@
         {
             "skinname":"Quang thánh tiễn",
             "skinid":1773,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengjisihan_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengjisihan_skin_02.png"
         },
         {
             "skinname":"Quang vinh",
@@ -1774,9 +1667,7 @@
         {
             "skinname":"Nữ vương pháo hoa",
             "skinid":1775,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengjisihan_skin_04.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengjisihan_skin_04.png"
         },
         {
             "skinname":"Dạ tiệc",
@@ -1820,8 +1711,7 @@
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1282,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_01.png"
         },
         {
             "skinname":"Nam vương",
@@ -1846,15 +1736,12 @@
         {
             "skinname":"Tư lệnh Robot",
             "skinid":1287,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_06.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_06.png"
         },
         {
             "skinname":"Ichigo Kurisaki",
             "skinid":1289,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caocao_skin_07.png"
         }
     ]
 },
@@ -1876,9 +1763,7 @@
         {
             "skinname":"Cự thần viễn cổ",
             "skinid":1684,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/niu_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/niu_skin_02.png"
         }
     ]
 },
@@ -1895,8 +1780,7 @@
         {
             "skinname":"Ác ma địa ngục",
             "skinid":1232,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_01.png"
         },
         {
             "skinname":"Tiệc hóa trang",
@@ -1906,21 +1790,17 @@
         {
             "skinname":"Samurai tử sĩ",
             "skinid":1234,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_03.png"
         },
         {
             "skinname":"Đại tướng Rô bốt",
             "skinid":1235,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_04.png"
         },
         {
             "skinname":"Ông kẹ bí ngô",
             "skinid":1236,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_05.png"
         },
         {
             "skinname":"Ác nhân vô tuyến",
@@ -1930,8 +1810,7 @@
         {
             "skinname":"Vũ hội bóng đêm",
             "skinid":1238,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/lvbu_skin_07.png"
         }
     ]
 },
@@ -1953,8 +1832,7 @@
         {
             "skinname":"Hỏa ngọc nữ vương",
             "skinid":1214,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/miyue_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/miyue_skin_02.png"
         }
     ]
 },
@@ -1986,8 +1864,7 @@
         {
             "skinname":"Thần đồng sinh hóa",
             "skinid":1805,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nezha_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/nezha_skin_04.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -2014,14 +1891,12 @@
         {
             "skinname":"Tiệc bánh kẹo",
             "skinid":1193,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bianque_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bianque_skin_02.png"
         },
         {
             "skinname":"Pháp sư mèo",
             "skinid":1194,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bianque_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/bianque_skin_03.png"
         }
     ]
 },
@@ -2043,26 +1918,22 @@
         {
             "skinname":"Chị đại lắm chiêu",
             "skinid":1203,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_02.png"
         },
         {
             "skinname":"Tiệc bánh kẹo",
             "skinid":1204,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_03.png"
         },
         {
             "skinname":"Kẹo hay ghẹo",
             "skinid":1205,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_04.png"
         },
         {
             "skinname":"Lưỡi hái hoàng kim",
             "skinid":1206,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/baiqi_skin_05.png"
         }
     ]
 },
@@ -2084,8 +1955,7 @@
         {
             "skinname":"Lính cứu hỏa",
             "skinid":1703,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liubei_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liubei_skin_02.png"
         }
     ]
 },
@@ -2107,21 +1977,17 @@
         {
             "skinname":"M-TP Thần tượng học đường",
             "skinid":1313,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_02.png"
         },
         {
             "skinname":"Đồ Thần đao",
             "skinid":1314,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_03.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1315,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_04.png"
         },
         {
             "skinname":"Thiên tài sân cỏ",
@@ -2129,24 +1995,19 @@
             "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_05.png"
         },
         {
-            "skinname":"Đặc dị",
+            "skinname":"Đao khách cứu thế",
             "skinid":1318,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_06.png"
         },
         {
             "skinname":"Siêu việt 2.0",
             "skinid":1319,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_07.png"
         },
         {
             "skinname":"Chí tôn thần kiếm",
             "skinid":13110,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_08.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_08.png"
         },
         {
             "skinname":"Điệp viên Anubis",
@@ -2156,14 +2017,12 @@
         {
             "skinname":"Dược sĩ tình yêu",
             "skinid":13111,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_10.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_10.png"
         },
         {
             "skinname":"Byakuya Kuchiki",
             "skinid":13112,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_11.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/libai_skin_11.png"
         }
     ]
 },
@@ -2180,8 +2039,7 @@
         {
             "skinname":"Chiến binh hỏa ngục",
             "skinid":1502,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_01.png"
         },
         {
             "skinname":"Quân đoàn địa ngục",
@@ -2191,47 +2049,37 @@
         {
             "skinname":"BBoy công nghệ",
             "skinid":1504,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_03.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1505,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_04.png"
         },
         {
             "skinname":"Khiêu chiến",
             "skinid":1506,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_05.png"
         },
         {
             "skinname":"Quán quân",
             "skinid":1507,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_06.png"
         },
         {
             "skinname":"Lôi quang sứ",
             "skinid":1508,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_07.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1509,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_08.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_08.png"
         },
         {
             "skinname":"Thứ nguyên vệ thần",
             "skinid":15010,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_09.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hanxin_skin_09.png"
         }
     ]
 },
@@ -2248,8 +2096,7 @@
         {
             "skinname":"Nghệ nhân lân",
             "skinid":1423,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_01.png"
         },
         {
             "skinname":"Quý cô thủy tề",
@@ -2259,33 +2106,27 @@
         {
             "skinname":"Phó nháy nhí nhảnh",
             "skinid":1425,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_03.png"
         },
         {
             "skinname":"Quà quái quỷ",
             "skinid":1426,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_04.png"
         },
         {
             "skinname":"Nghiệp hỏa yêu hậu",
             "skinid":1427,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_05.png"
         },
         {
             "skinname":"Băng tâm thần nữ",
             "skinid":1428,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_06.png"
         },
         {
             "skinname":"Nữ quái công nghệ",
             "skinid":1429,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji2_skin_07.png"
         }
     ]
 },
@@ -2307,8 +2148,7 @@
         {
             "skinname":"Thông thỏa thích",
             "skinid":1174,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongwuyan_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhongwuyan_skin_02.png"
         },
         {
             "skinname":"Giáo viên thể hình",
@@ -2362,27 +2202,22 @@
         {
             "skinname":"Ám tử đao",
             "skinid":5063,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_02.png"
         },
         {
             "skinname":"Qủy nguyệt tướng",
             "skinid":5064,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_03.png"
         },
         {
             "skinname":"Chiến binh trăng khuyết",
             "skinid":5066,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_04.png"
         },
         {
             "skinname":"Đao phủ tận thế",
             "skinid":5065,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/darkknight_skin_05.png"
         },
         {
             "skinname":"Thuyền trưởng hải tặc",
@@ -2431,8 +2266,7 @@
         {
             "skinname":"Ngìn lẻ một đêm",
             "skinid":1843,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/caiwenji_skin_02.png"
         }
     ]
 },
@@ -2454,14 +2288,12 @@
         {
             "skinname":"Băng hỏa long sư",
             "skinid":1483,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/jiangziya_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/jiangziya_skin_02.png"
         },
         {
             "skinname":"Phi cơ F1",
             "skinid":1484,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/jiangziya_skin_03.png",
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/jiangziya_skin_03.png"
         }
     ]
 },
@@ -2483,14 +2315,12 @@
         {
             "skinname":"Đặc vụ cáo tuyết",
             "skinid":5283,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/damo_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/damo_skin_02.png"
         },
         {
             "skinname":"Quán quân",
             "skinid":5284,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/damo_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/damo_skin_03.png"
         }
     ]
 },
@@ -2512,16 +2342,12 @@
         {
             "skinname":"Thống soái đế chế",
             "skinid":5184,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_02.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_02.png"
         },
         {
-            "skinname":"Đặc nhiệm nhện đỏ",
+            "skinname":"Đặc nhiệm huyết ảnh",
             "skinid":5183,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_03.png"
         },
         {
             "skinname":"Sao đỏ học đường",
@@ -2531,27 +2357,22 @@
         {
             "skinname":"Huyết thủ nguyệt tộc",
             "skinid":5185,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_05.png"
         },
         {
             "skinname":"Tà linh ma đao",
             "skinid":5187,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_06.png"
         },
         {
             "skinname":"Hoàng kim soái vương",
             "skinid":5188,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_07.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_07.png"
         },
         {
             "skinname":"Nghịch Thiên long đế",
             "skinid":5189,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_08.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/quillen_skin_08.png"
         }
     ]
 },
@@ -2573,28 +2394,22 @@
         {
             "skinname":"Băng quyền quán quân",
             "skinid":1574,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_02.png"
         },
         {
             "skinname":"Chiến thần Muay Thái",
             "skinid":1575,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_03.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1576,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_04.png"
         },
         {
             "skinname":"Siêu cấp tin tặc",
             "skinid":1577,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/buzhihuowu_skin_05.png"
         }
     ]
 },
@@ -2616,9 +2431,7 @@
         {
             "skinname":"Thống soái kháng chiến",
             "skinid":5153,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/richter_skin_02.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/richter_skin_02.png"
         },
         {
             "skinname":"Dạ hội",
@@ -2628,9 +2441,7 @@
         {
             "skinname":"Huyền thoại Katana",
             "skinid":5155,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/richter_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/richter_skin_04.png"
         }
     ]
 },
@@ -2652,9 +2463,7 @@
         {
             "skinname":"Công chúa hỏa long",
             "skinid":1913,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daqiao_skin_03.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daqiao_skin_03.png"
         }
     ]
 },
@@ -2676,8 +2485,7 @@
         {
             "skinname":"Biệt đội siêu hùng",
             "skinid":5123,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/rourke_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/rourke_skin_02.png"
         },
         {
             "skinname":"Cuồng tặc",
@@ -2704,8 +2512,7 @@
         {
             "skinname":"Kèn ái tình",
             "skinid":5143,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/roxi_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/roxi_skin_02.png"
         },
         {
             "skinname":"Hầu gái",
@@ -2737,40 +2544,32 @@
         {
             "skinname":"Đại tướng nguyệt tộc",
             "skinid":1633,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_02.png"
         },
         {
             "skinname":"Thanh long bang chủ",
             "skinid":1634,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_03.png"
         },
         {
             "skinname":"Ngự kiếm hồn binh",
             "skinid":1635,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_04.png"
         },
         {
             "skinname":"Samurai huyền thoại",
             "skinid":1636,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_05.png"
         },
         {
             "skinname":"Chiến binh Cyborg",
             "skinid":1637,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_06.png"
         },
         {
             "skinname":"Ultraman",
             "skinid":1638,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/juyoujing_skin_07.png"
         }
     ]
 },
@@ -2797,8 +2596,7 @@
         {
             "skinname":"Thần tượng âm nhạc",
             "skinid":5274,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sephera_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sephera_skin_03.png"
         },
         {
             "skinname":"Phi vụ thế kỷ",
@@ -2830,8 +2628,7 @@
         {
             "skinname":"Tiểu thư Băng giá",
             "skinid":5353,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wish_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wish_skin_02.png"
         }
     ]
 },
@@ -2858,8 +2655,7 @@
         {
             "skinname":"Hắc tinh",
             "skinid":1345,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/tangsanzang_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/tangsanzang_skin_03.png"
         }
     ]
 },
@@ -2913,8 +2709,7 @@
         {
             "skinname":"Bất công lý",
             "skinid":1403,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/guanyu_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/guanyu_skin_02.png"
         }
     ]
 },
@@ -2936,20 +2731,17 @@
         {
             "skinname":"Hỏa ngọc nữ đế",
             "skinid":1444,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_02.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1445,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_03.png"
         },
         {
             "skinname":"Hồng môn đường chủ",
             "skinid":1446,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/chengyaojin_skin_04.png"
         },
         {
             "skinname":"Tư lệnh hải âu",
@@ -2993,8 +2785,7 @@
         {
             "skinname":"Tay đua Siêu Tốc",
             "skinid":1864,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/taiyizhenren_skin_02.png",
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/taiyizhenren_skin_02.png"
         },
         {
             "skinname":"Thần thoạt Hy lạp",
@@ -3026,21 +2817,17 @@
         {
             "skinname":"Chung tình tiễn",
             "skinid":5014,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_03.png"
         },
         {
             "skinname":"Thánh nữ mật hội",
             "skinid":5015,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_04.png"
         },
         {
             "skinname":"Thần sứ F.E.E-X1",
             "skinid":5016,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_05.png"
         },
         {
             "skinname":"Dạ hội",
@@ -3050,27 +2837,22 @@
         {
             "skinname":"Cảm y vệ: Phi ưng",
             "skinid":5017,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_07.png"
         },
         {
             "skinname":"Thứ nguyên vệ thần",
             "skinid":5019,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_08.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_08.png"
         },
         {
             "skinname":"Công chúa mộng mơ",
             "skinid":50110,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_09.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_09.png"
         },
         {
             "skinname":"Vũ khúc yêu hồ",
             "skinid":50112,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_10.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/telannas_skin_10.png"
         }
     ]
 },
@@ -3097,8 +2879,7 @@
         {
             "skinname":"Mật vụ",
             "skinid":1355,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiangyu_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/xiangyu_skin_03.png"
         }
     ]
 },
@@ -3120,9 +2901,7 @@
         {
             "skinname":"Giả kim thuật sư",
             "skinid":5323,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/genius_skin_02.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/genius_skin_02.png"
         }
     ]
 },
@@ -3176,9 +2955,7 @@
         {
             "skinname":"Tân thần thiên hà",
             "skinid":1903,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_02.png"
         },
         {
             "skinname":"Phù thủy kiến tạo",
@@ -3188,8 +2965,7 @@
         {
             "skinname":"Đông êm đềm",
             "skinid":1905,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_04.png"
         },
         {
             "skinname":"Phó kỷ luật",
@@ -3199,16 +2975,12 @@
         {
             "skinname":"Tân thần hoàng kim",
             "skinid":1907,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_06.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_06.png"
         },
         {
             "skinname":"Chí tôn kiếm tiên",
             "skinid":1908,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_07.png"
         },
         {
             "skinname":"Dạ hội",
@@ -3218,15 +2990,12 @@
         {
             "skinname":"ST.L-79",
             "skinid":19010,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_09.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_09.png"
         },
         {
             "skinname":"Hỏa thần long tộc",
             "skinid":19011,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_10.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhugeliang_skin_10.png"
         }
     ]
 },
@@ -3248,14 +3017,12 @@
         {
             "skinname":"Quý công tử",
             "skinid":1294,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_02.png"
         },
         {
             "skinname":"Dũng sĩ đồ long",
             "skinid":1295,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_03.png"
         },
         {
             "skinname":"Quang vinh",
@@ -3265,21 +3032,17 @@
         {
             "skinname":"Chiến tướng mùa đông",
             "skinid":1297,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_05.png"
         },
         {
             "skinname":"Kỵ sĩ tận thế",
             "skinid":1298,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_06.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_06.png"
         },
         {
             "skinname":"Cẩm y vệ: Hỏa long",
             "skinid":1299,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/dianwei_skin_07.png"
         }
     ]
 },
@@ -3301,14 +3064,12 @@
         {
             "skinname":"Vũ khí tối thượng",
             "skinid":1333,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_02.png"
         },
         {
             "skinname":"Đại công tước",
             "skinid":1335,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_03.png"
         },
         {
             "skinname":"Quang vinh",
@@ -3323,20 +3084,17 @@
         {
             "skinname":"Khiêu chiến",
             "skinid":1338,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_06.png"
         },
         {
             "skinname":"Đội trưởng Cá mập",
             "skinid":1339,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_07.png"
         },
         {
             "skinname":"Hoàng tử Băng",
             "skinid":13310,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_08.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/direnjie_skin_08.png"
         }
     ]
 },
@@ -3358,20 +3116,17 @@
         {
             "skinname":"Nàng dơi tuyết",
             "skinid":1094,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_02.png"
         },
         {
             "skinname":"Y tá bạo loạn",
             "skinid":1095,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_03.png"
         },
         {
             "skinname":"Góa phụ giả kim",
             "skinid":1093,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_04.png"
         },
         {
             "skinname":"Thiên nga đen",
@@ -3381,8 +3136,7 @@
         {
             "skinname":"Vũ hội bóng đêm",
             "skinid":1097,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/daji_skin_06.png"
         }
     ]
 },
@@ -3404,8 +3158,7 @@
         {
             "skinname":"Gián điệp tinh hệ",
             "skinid":5203,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/veres_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/veres_skin_02.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -3437,8 +3190,7 @@
         {
             "skinname":"Nữ hoàng pháo hoa",
             "skinid":1112,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_01.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_01.png"
         },
         {
             "skinname":"Nữ đặc cảnh",
@@ -3448,21 +3200,17 @@
         {
             "skinname":"Phi công trẻ",
             "skinid":1114,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_03.png"
         },
         {
             "skinname":"Mèo siêu quậy",
             "skinid":1115,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_04.png"
         },
         {
             "skinname":"Tiệc bãi biển",
             "skinid":1116,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_05.png"
         },
         {
             "skinname":"Phó học tập",
@@ -3472,28 +3220,22 @@
         {
             "skinname":"Pháo hoa Neon",
             "skinid":1119,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_07.png"
         },
         {
             "skinname":"Thứ nguyên vệ thần",
             "skinid":1118,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_08.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_08.png"
         },
         {
             "skinname":"Vợ người ta",
             "skinid":11111,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_09.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_09.png"
         },
         {
             "skinname":"Đặc dị",
             "skinid":11110,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_10.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_10.png"
         },
         {
             "skinname":"Huy chương vàng",
@@ -3503,15 +3245,12 @@
         {
             "skinname":"Huyết ma thần",
             "skinid":11114,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_12.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_12.png"
         },
         {
             "skinname":"Lam tước",
             "skinid":11115,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_13.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/sunshangxiang_skin_13.png"
         }
     ]
 },
@@ -3533,14 +3272,12 @@
         {
             "skinname":"Ma kỵ tử sĩ",
             "skinid":5293,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/volkath_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/volkath_skin_02.png"
         },
         {
             "skinname":"Xung thiên thần tướng",
             "skinid":5294,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/volkath_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/volkath_skin_03.png"
         }
     ]
 },
@@ -3562,15 +3299,12 @@
         {
             "skinname":"Thỏ siêu quậy",
             "skinid":5083,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhadanren_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhadanren_skin_02.png"
         },
         {
             "skinname":"Ếch nhồi bông",
             "skinid":5084,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhadanren_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhadanren_skin_03.png"
         }
     ]
 },
@@ -3609,41 +3343,32 @@
         {
             "skinname":"Hỏa nhãn kim tinh",
             "skinid":1673,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_02.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1674,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_03.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_03.png"
         },
         {
             "skinname":"Ngộ khá trẩu",
             "skinid":1675,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_04.png"
         },
         {
-            "skinname":"Siêu việt 2.0",
+            "skinname":"Siêu thần",
             "skinid":1676,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_05.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_05.png"
         },
         {
             "skinname":"Đặc vụ băng hầu",
             "skinid":1677,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_06.png"
         },
         {
             "skinname":"Nhóc tì bá đạo",
             "skinid":1678,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_07.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/wukong_skin_07.png"
         }
     ]
 },
@@ -3675,8 +3400,7 @@
         {
             "skinname":"Tổng lãng tinh hệ",
             "skinid":1496,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liubang_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/liubang_skin_04.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -3720,9 +3444,7 @@
         {
             "skinname":"Thỏ may mắn",
             "skinid":1543,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_02.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_02.png"
         },
         {
             "skinname":"Tiệc bánh kẹo",
@@ -3732,8 +3454,7 @@
         {
             "skinname":"Chiến binh nguyệt tộc",
             "skinid":1544,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_04.png"
         },
         {
             "skinname":"Nữ hoàng trượt băng",
@@ -3743,14 +3464,12 @@
         {
             "skinname":"Dạ nguyệt thánh nữ",
             "skinid":1547,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_06.png"
         },
         {
             "skinname":"Giảng viên tình ái",
             "skinid":1548,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/huamulan_skin_07.png"
         },
         {
             "skinname":"Nữ cướp biển",
@@ -3777,41 +3496,32 @@
         {
             "skinname":"Thế tử nguyệt tộc",
             "skinid":1123,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_02.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_02.png"
         },
         {
             "skinname":"Đặc nhiệm SWAT",
             "skinid":1124,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_03.png"
         },
         {
             "skinname":"Phá Vân tiễn",
             "skinid":1125,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_08.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_08.png"
         },
         {
             "skinname":"Long thần soái",
             "skinid":1126,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_04.png"
         },
         {
             "skinname":"Nam thần dạ hội",
             "skinid":1127,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_05.png",
-            "haveaction":true,
-			"cantmodinfo":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_05.png"
         },
         {
             "skinname":"Soái ca học đường",
             "skinid":1128,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_06.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/gongshuban_skin_06.png"
         },
         {
             "skinname":"Thần thoại Hy Lạp",
@@ -3838,8 +3548,7 @@
         {
             "skinname":"Sứ giả tinh hệ",
             "skinid":5133,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/shusheng_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/shusheng_skin_02.png"
         }
     ]
 },
@@ -3861,21 +3570,17 @@
         {
             "skinname":"Hiệp sĩ bí ngô",
             "skinid":1074,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_02.png"
         },
         {
             "skinname":"Dung nham",
             "skinid":1075,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_03.png"
         },
         {
             "skinname":"Siêu việt",
             "skinid":1076,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_04.png",
-            "haveaction":true,
-			"haveback":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zhaoyun_skin_04.png"
         },
         {
             "skinname":"Phi thương",
@@ -3907,20 +3612,17 @@
         {
             "skinname":"Dung nham",
             "skinid":1463,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_02.png"
         },
         {
             "skinname":"Cựu thần thiên hà",
             "skinid":1464,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_03.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_03.png"
         },
         {
             "skinname":"Diệt nguyệt tử sĩ",
             "skinid":1465,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/hongfu_skin_04.png"
         },
         {
             "skinname":"Thần Mộng Mị",
@@ -3969,8 +3671,7 @@
         {
             "skinname":"Giáo sư sùng sỏ",
             "skinid":5034,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_02.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_02.png"
         },
         {
             "skinname":"Phát tài",
@@ -3980,14 +3681,12 @@
         {
             "skinname":"Gấu nhồi bông",
             "skinid":5036,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_04.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_04.png"
         },
         {
             "skinname":"Diệt nguyệt nguyên soái",
             "skinid":5037,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_05.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_05.png"
         },
         {
             "skinname":"Đầu bếp hoàng cung",
@@ -3997,8 +3696,7 @@
         {
             "skinname":"Mãnh hổ",
             "skinid":5039,
-            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_07.png",
-            "haveaction":true
+            "imglink":"https://github.com/dhagm/iconAOV/raw/main/zuka_skin_07.png"
         }
     ]
 }
